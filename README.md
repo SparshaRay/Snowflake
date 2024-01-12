@@ -1,4 +1,4 @@
-# Welcome to processing!
+# Welcome to Processing!
 
 - For downloading, examples and documentation visit [the processing website](https://processing.org)
 - Also check out websites of [p5.js](https://p5js.org/), [android](https://android.processing.org/) or the [python](https://py.processing.org/) mode of processing
